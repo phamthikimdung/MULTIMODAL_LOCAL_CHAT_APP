@@ -1,0 +1,6 @@
+streamlit
+langchain_community
+langchain_text_splitters
+langchain_groq
+groq
+faiss-cpu
